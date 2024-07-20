@@ -21,10 +21,10 @@ To utilize the React template or examine the code for a particular topic, you ca
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/piangevole/ReactPlayground.git
 
 # Navigate to the cloned repository
-cd your-repo
+cd master
 
 # Switch to a specific branch
 git checkout branch-name-1
