@@ -11,7 +11,7 @@ Welcome to my React Playground repository! This repository serves as a dedicated
 
 Here are some of the branches available in this repository:
 
-- [master](https://github.com/your-username/your-repo/tree/master): The React template with the initial "Hello, World!" content.
+- [master](https://github.com/piangevole/ReactPlayground/tree/master): The React template with the initial "Hello, World!" content.
 
 Feel free to explore the branches to access the specific code associated with each topic or tutorial.
 
