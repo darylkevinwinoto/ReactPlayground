@@ -12,6 +12,7 @@ Welcome to my React Playground repository! This repository serves as a dedicated
 Here are some of the branches available in this repository:
 
 - [master](https://github.com/piangevole/ReactPlayground/tree/master): The React template with the initial "Hello, World!" content. Done in 21/7/2024
+- [responsive-design](https://github.com/darylkevinwinoto/ReactPlayground/tree/responsive-design): Responsive Design tutorial by Tailwind Labs (https://www.youtube.com/watch?v=hX1zUdj4Dw4&t=18s&ab_channel=TailwindLabs). Done in 9/11/2024
 
 Feel free to explore the branches to access the specific code associated with each topic or tutorial.
 
